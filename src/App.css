@@ -3,7 +3,7 @@ body {
 }
 .title {
   text-align: center;
-  padding: 30px;
+  padding-top: 65px;
   font-size: 40px;
 }
 .title > span {

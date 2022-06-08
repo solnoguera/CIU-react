@@ -1,4 +1,5 @@
 import React from "react";
+import Form from "../Form/Form";
 import Slider from "../Slider/Slider";
 
 export default function Main() {
@@ -16,6 +17,7 @@ export default function Main() {
         Tenemos más de 20 años en el rubro, crecimos junto a vos. Vení a
         conocernos en una de nuestras sucursales!
       </p>
+      <Form />
     </>
   );
 }

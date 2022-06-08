@@ -20,7 +20,7 @@ export default function Footer() {
             <span>Av. Pte. Perón 1320, San Miguel, Bs. As.</span>
             <br />
             <img src={phone} alt="celular" width="35px" height="35px" />
-            <span>1132479932</span>
+            <span>1135355932</span>
             <br />
             <img src={phone} alt="celular" width="35px" height="35px" />
             <span>4667-5050</span>
