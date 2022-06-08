@@ -1,0 +1,36 @@
+.footer-container {
+  width: 100%;
+  margin: 0px;
+  margin-top: 100px;
+  background-color: white !important;
+  border: none;
+  border-radius: 0;
+}
+.col-img {
+  padding: 40px;
+}
+.col-info {
+  padding: 100px 20px;
+  background-color: white;
+}
+.col-info > span {
+  font-size: 18px;
+  margin-left: 10px;
+  padding: 10px;
+}
+.col-info > h4 {
+  padding: 10px;
+  font-weight: 600;
+  margin: 10px 0px;
+}
+.rights {
+  text-align: center;
+  background-color: rgb(24, 24, 24);
+  padding: 25px;
+  color: white;
+  font-size: 18px;
+  margin: 0px;
+}
+.rights > span {
+  color: tomato;
+}
